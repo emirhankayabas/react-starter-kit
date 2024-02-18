@@ -1,7 +1,7 @@
 export default function NotFound() {
   return (
     <div>
-      <h1>Not Found Sayfası</h1>
+        404 Not Found Sayfası
     </div>
-  );
+  )
 }

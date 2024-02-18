@@ -1,5 +1,5 @@
 import { createBrowserRouter } from "react-router-dom";
-import MainLayout from "~/layouts/main";
+import MainLayout from "~/layouts/main-layout";
 import Home from "~/pages/home";
 import NotFound from "~/pages/not-found";
 
